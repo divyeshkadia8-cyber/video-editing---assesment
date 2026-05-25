@@ -1,0 +1,34 @@
+Ans 1: A 9:16 aspect ratio is a vertical image or video format where the height is nearly twice the length of the width. Specifically, for every 9 units of width, there are 16 units of height.It is the exact inverse of the traditional 16:9 widescreen format you see on modern televisions, desktop monitors, and horizontal YouTube videos. Because modern smartphones are designed to be held vertically, 9:16 perfectly fills a standard phone screen without any black bars on the top or bottom. The most common resolution for this format is 1080 x 1920 pixels (Full HD).
+
+
+
+Platforms Using 9:16
+
+Instagram Reels and Stories, YouTube YouTube Shorts, Facebook Facebook Reels
+
+Ans 2: Sequence Presets
+Think of presets as ready-made templates. Adobe includes dozens of these built directly into the software, categorized largely by camera manufacturer or broadcast standard.
+
+What they are: Pre-configured bundles of settings designed to perfectly match standard recording formats.
+
+When to use them: When your footage comes from a standard source or when you know exactly what format you need to deliver. For example, if you shot everything on a DSLR camera at 24 frames per second, you can just click the folder for Digital SLR > 1080p > DSLR 1080p24.
+
+The benefit: They prevent technical mismatches. If your sequence perfectly matches your footage, you won't have to render as often while editing, and playback will be much smoother.
+
+Custom Sequences
+A custom sequence is built entirely from scratch. Instead of picking a template from the "Sequence Presets" list, you navigate to the Settings tab in the New Sequence dialog box and manually define every single parameter.
+
+What they are: A blank slate where you change the Editing Mode to "Custom" and manually dial in the timebase (frame rate), frame size (resolution), pixel aspect ratio, and audio sample rate.
+
+When to use them: When you are creating content for non-traditional screens, mixing unusual formats, or dealing with highly specific client deliverables.
+
+Example: Creating video for social media! If you want to edit a TikTok or Instagram Reel (the 9:16 aspect ratio we just talked about), you would create a custom sequence by manually typing in 1080 for the horizontal size and 1920 for the vertical size, since most built-in camera presets are horizontal.
+
+
+Ans 3: The Razor tool (keyboard shortcut: C) is the primary cutting tool in Premiere Pro. It allows you to slice a single video or audio clip in your timeline into two independent segments.
+
+Ans 4: A cross dissolve is a video transition where the first clip gradually fades out while the second clip simultaneously fades in. For a brief moment during the transition, the two images overlap and blend together on screen.Cross Dissolve vs. Hard CutA hard cut instantly switches from one shot to the next with zero overlap. It is the standard building block of editing—making up the vast majority of cuts in modern video—because it mimics how the human eye naturally darts from one focal point to another.You should use a cross dissolve instead of a hard cut when you want to intentionally draw attention to the edit to communicate something to the audience. The most common reasons include:Indicating a Passage of Time: This is the classic cinematic use. Dissolving from a wide shot of a bustling office to the same office empty and dark instantly tells the viewer that hours have passed.Changing Locations Smoothly: If you are moving between two entirely different settings, a dissolve can connect them visually and thematically, making a jarring leap feel intentional and smooth.Altering the Mood and Pace: Dissolves take time to complete, which inherently slows down the rhythm of a video. They are excellent for emotional, reflective, dreamy, or melancholic moments. Hard cuts, by contrast, drive energy and are better for action, comedy, and fast-paced dialogue.Creating Montages: When you want to compress a long process (like a road trip or building a house) into a few seconds, blending a series of shots together with cross dissolves creates a fluid, unified sequence.
+
+Ans 5: H.264 (also known as Advanced Video Coding, or AVC) is currently the most widely used video compression standard in the world.
+
+To understand what it is, you have to look at what a "codec" (coder-decoder) does. When a camera records raw video, the resulting files are massive—often several gigabytes for just a minute of footage. H.264 is the mathematical formula that "codes" that massive raw file, stripping out redundant visual data to shrink the file size, and then "decodes" it during playback so you can watch it.
