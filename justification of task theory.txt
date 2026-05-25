@@ -1,0 +1,14 @@
+justification of task
+ans 1 - I chose the Ripple Edit Tool because the task required removing or adjusting a clip without leaving empty gaps in the timeline. If I used the basic Selection Tool and moved clips manually, I would have needed multiple steps: delete the clip, select the remaining clips, drag them forward, and then recheck sync and timing.
+
+With the Ripple Edit Tool, the timeline automatically closed the gap after trimming or deleting the section. This made the workflow much faster and cleaner.
+
+
+ans - 2 
+ my approach was to organize the footage clearly before starting detailed editing. I used Label Colors to separate different types of clips such as original footage, edited clips, B-roll, graphics, and backup versions. This made the timeline easier to understand and helped me work faster during the edit.
+
+Using Label Colors also protects the project when a client requests major changes because the original footage remains easy to identify at any time. Instead of replacing or confusing edited clips with raw files, I can quickly locate the untouched source footage and create new edits without damaging the existing work.
+
+
+ans - 3
+Applying Title Safe Zones helped ensure that all text, captions, and graphics stayed within the visible and readable area of the screen on different devices and platforms. For a lifestyle influencer, professionalism is very important because the content represents their personal brand and audience experience.
